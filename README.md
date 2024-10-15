@@ -7,5 +7,5 @@ Use like:
 
 ```bash
 pip install -r requirements.txt
-python3 $wp_mail_smtp_mail_key_pass $wp_mail_smtp_mail_key
+python3 decrypt.py $wp_mail_smtp_mail_key_pass $wp_mail_smtp_mail_key
 ```
